@@ -69,5 +69,5 @@ jobs:
         with:
           app-name: 'clinicalweb'
           slot-name: 'Production'
-          package: './dist/clinical_web'
+          package: './dist/clinical_web/*'
           
